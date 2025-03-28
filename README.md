@@ -20,3 +20,7 @@ The objective of this project is to build an efficient Deep Learning-based syste
 
 ## Sample Output
 ![Screenshot 2025-03-27 112821](https://github.com/user-attachments/assets/72e207a8-4b65-4963-a4d7-93a048d4abd3)
+
+## Dataset Credit
+The MRI Brain Tumor dataset used in this project was taken from Kaggle. <br>
+Dataset Link: [https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resource=download)
